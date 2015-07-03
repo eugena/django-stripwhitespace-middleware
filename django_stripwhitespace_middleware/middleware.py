@@ -1,3 +1,8 @@
+"""
+Tightens up response content by removed superflous line breaks and whitespace.
+By Doug Van Horn
+"""
+
 import re
 
 class StripWhitespaceMiddleware(object):
