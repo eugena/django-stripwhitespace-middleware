@@ -16,7 +16,6 @@ For example:
 MIDDLEWARE_CLASSES = (
     'django.middleware.common.CommonMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
-    'startup.do.work.FindProductMarketFitMiddleware',
     ...
     'django_stripwhitespace_middleware.middleware.StripWhitespaceMiddleware'
 )
