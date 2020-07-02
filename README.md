@@ -1,5 +1,7 @@
 ## Description
 
+DEPRECATED!
+
 Strips leading and trailing whitespace from response content in Django application.
 
 ## Installing
